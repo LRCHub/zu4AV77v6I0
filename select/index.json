@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "8.32",
+  "base_artist": "*Luna",
+  "createdAt": "2025-12-10T13:17:15.172450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/01_8.32_Luna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/02_8.32_Luna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna feat. v flower",
+      "has_synced": false,
+      "path": "select/03_8.32_Luna_feat._v_flower.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/04_8.32_Luna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "8.32",
+      "artist": "*Luna",
+      "has_synced": false,
+      "path": "select/pl_01_8.32_Luna.txt"
+    }
+  ]
+}
